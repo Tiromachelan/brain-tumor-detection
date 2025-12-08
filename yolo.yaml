@@ -1,0 +1,8 @@
+train: brain-mri/Train
+val: brain-mri/Val
+
+names:
+  0: Glioma
+  1: Meningioma
+  2: No Tumor
+  3: Pituitary
